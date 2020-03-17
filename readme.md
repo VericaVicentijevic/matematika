@@ -1,6 +1,6 @@
 # Radna sveska iz matematike
 
-Zbog novonastalih prilika, dalji rad sa đacima će se održavati putem interneta. Za svaki razred je napravljena radna sveska
+Zbog novonastalih okolnosti, dalji rad sa đacima će se održavati putem interneta. Za svaki razred je napravljena radna sveska
 iz koje će učenici raditi domaće zadatke. Radne sveske će biti proširivane i pratiće propisani plan i program. 
 
 ## Obaveze učenika
